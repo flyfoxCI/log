@@ -1,0 +1,5 @@
+levels: info
+logDir: ./log
+maxSize: 100
+maxAge: 3
+maxBackups: 10
